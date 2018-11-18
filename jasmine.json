@@ -1,6 +1,6 @@
 {
   "spec_dir": "spec",
-  "spnpmec_files": [
+  "spec_files": [
     "**/*[sS]pec.ts"
   ],
   "helpers": [
